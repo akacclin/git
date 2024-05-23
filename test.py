@@ -1,5 +1,8 @@
 def main():
     if True:
-    	print(1)
+    	print(2)
+
+def check():
+    print(2)
    
 main()
